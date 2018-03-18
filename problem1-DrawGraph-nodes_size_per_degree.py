@@ -7,7 +7,6 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 import numpy as ny
-from networkx.algorithms import community
 
 '''
 node 34 = the administrator
@@ -25,8 +24,8 @@ print('degree type =',type(degree_list[0]))
 print('degrees =',degree_list)
 print('============')
 '''
-d = nx.degree(g)
-nx.draw(g, nodelist=d.keys(), node_size=[v * 100 for v in d.values()])
+d = nx.degree(g)  # d is not a dictionary type, but a report view.
+nx.draw(g, nodelist=d.keys(), node_size=[v * 100 for v in d.values()])  # this didn't work
 '''
 print('Draw node proportion to the degree of the node')
 print(nx.info(H))
