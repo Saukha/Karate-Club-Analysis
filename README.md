@@ -1,4 +1,4 @@
-# Zachary's Karate-Club Graph Analysis
+# Zachary's Karate Club Graph Analysis
 
 This is an assignment on NetworkX graph analysis for a data science program.  An unweighted network data of Zachary's Karate Club was given for analysis.  Several centrality metrics were calculated for all nodes to compare how influential or important the nodes are in the network.  The graph was then visualized to show nodes in different sizes according to degree of each node.  A node of higher degree was drawn larger in size.
 
