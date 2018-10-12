@@ -10,7 +10,7 @@ http://vlado.fmf.uni-lj.si/pub/networks/data/Ucinet/UciData.htm
 My Module: https://github.com/Saukha/Karate-Club-Analysis/blob/master/my_networkx_module.ipynb
 
 Quick Look Report: 
-https://github.com/Saukha/Karate-Club-Analysis/blob/master/Karate%20Club%20Analysis%2004062018.pdf
+https://github.com/Saukha/Karate-Club-Analysis/blob/master/Karate%20Club%20Analysis%2004062018.pdf <br>
 https://github.com/Saukha/Karate-Club-Analysis/blob/master/Karate%20Club%20Analysis%202.pdf
 
 
