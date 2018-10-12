@@ -7,6 +7,8 @@ The network was then partitioned using different algorithms to see whether the r
 Original Data file from:
 http://vlado.fmf.uni-lj.si/pub/networks/data/Ucinet/UciData.htm
 
+Quick Look Report: https://github.com/Saukha/Karate-Club-Analysis/blob/master/Karate%20Club%20Analysis%2004062018.pdf
+
 Reference:
 Zachary W. (1977).
 An information flow model for conflict and fission in small groups.
